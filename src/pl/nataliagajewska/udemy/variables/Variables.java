@@ -60,7 +60,9 @@ public class Variables {
         m = m+5;
         System.out.println(m); // -> można zmieniać zmienne
 
+      final int o = 11; // <------ stała której nigdy nie można zmienić
 
+        System.out.println(o);
 
 
 
