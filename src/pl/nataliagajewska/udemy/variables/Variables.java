@@ -20,6 +20,47 @@ public class Variables {
         System.out.println(str);
         System.out.println(boo);
 
+        int a = 25;
+        int z = 30;
+        int az = a+z; // dodawania
+        int mn = a*z; // mnożenie
+        double dz = 10;
+        double yw = 3;
+        double abc = dz/yw; // dzielenie dla zmiennoprzecinkowych
+        System.out.println(az);
+        System.out.println(mn);
+        System.out.println(abc);
+
+        // MODULO czyli reszta z dzielenia %
+
+        int m = 20;
+        int mm = 6;
+        int mod = m%mm;
+
+        System.out.println(mod); // 20/6=18 - zostaje 2 czyli modulo
+
+        //..................................//
+
+        //dekrementacja czyli zwiększenie o 1 (++)
+
+        int aaa = 20;
+        int bbb = 30;
+        int ccc = 40;
+
+
+        System.out.println(aaa++);
+        System.out.println(aaa);
+        System.out.println(bbb--);
+        System.out.println(bbb);
+
+        System.out.println(++ccc); // <-- lepiej tak
+
+        //.....................//
+
+        m = m+5;
+        System.out.println(m); // -> można zmieniać zmienne
+
+
 
 
 
