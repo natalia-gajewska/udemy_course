@@ -17,5 +17,12 @@ public class Table {
         String[] strings1 = {"element","element1"};
 
         System.out.println(strings1[1]);
+
+        System.out.println((ints[1]+ints[2])); // dodawanie na tablicach
+
+        int[] number = {1,12,89};
+
+        System.out.println((number[1]+number[2]));
+
     }
 }
