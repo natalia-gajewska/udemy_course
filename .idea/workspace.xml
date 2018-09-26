@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d29a20f-f977-4187-a06e-a0a0eaaba4cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/Rzutowanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/OperatoryArytmetyczne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy/pl/nataliagajewska/udemy/variables/sss.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,22 +26,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2311" />
+          <entry key="java" value="2901" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2311" />
+          <entry key="JAVA" value="2901" />
         </counts>
       </usages-collector>
     </session>
@@ -75,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/nataliagajewska/udemy/Rzutowanie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="113" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/nataliagajewska/udemy/OperatoryArytmetyczne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -103,7 +112,9 @@
         <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/constant/Const.java" />
         <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/Variables.java" />
         <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/Table.java" />
+        <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/sss.java" />
         <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/Rzutowanie.java" />
+        <option value="$PROJECT_DIR$/src/pl/nataliagajewska/udemy/OperatoryArytmetyczne.java" />
       </list>
     </option>
   </component>
@@ -162,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537950331466" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537951736908" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -177,13 +188,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Rzutowanie">
+  <component name="RunManager" selected="Application.OperatoryArytmetyczne">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.nataliagajewska.udemy.firstprogram.Main" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.nataliagajewska.udemy.firstprogram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatoryArytmetyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.nataliagajewska.udemy.OperatoryArytmetyczne" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.nataliagajewska.udemy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,9 +259,11 @@
       <item itemvalue="Application.Variables" />
       <item itemvalue="Application.Table" />
       <item itemvalue="Application.Rzutowanie" />
+      <item itemvalue="Application.OperatoryArytmetyczne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatoryArytmetyczne" />
         <item itemvalue="Application.Rzutowanie" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Variables" />
@@ -262,7 +288,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +297,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,10 +348,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/nataliagajewska/udemy/variables/sss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/nataliagajewska/udemy/Rzutowanie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="113" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/nataliagajewska/udemy/OperatoryArytmetyczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
         </state>
       </provider>
     </entry>
