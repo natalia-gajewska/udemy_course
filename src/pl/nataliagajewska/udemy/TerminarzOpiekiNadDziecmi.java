@@ -71,5 +71,9 @@ public class TerminarzOpiekiNadDziecmi {
         System.out.println("W" +spacja+ terminarzOpieki[0][5] + spacja + "jest" + spacja + terminarzOpieki[1][5]);
         System.out.println(terminarzOpieki[2][5] + spacja + "jest wspólna");
 
+        System.out.println("-------------------------------------------------------------------------");
+
+        System.out.println("Garfik obowiązuje od 01.10.2018r. ");
+
     }
 }
